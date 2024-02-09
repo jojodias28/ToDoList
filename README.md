@@ -18,5 +18,5 @@ docker run --name postgres-todolist -e POSTGRES_DB=todolist -e POSTGRES_USER=adm
 - O projeto deve conter uma rota para edicao de uma task.
 - Todos os dados podem ser editados pelo usuário, com excessao do id gerado no momento da criacao e a data de criacao.
 
-### 5. Deletar task:
+### 4. Deletar task:
 - O projeto deve conter uma rota que permite o usuário a deletar uma task e a exclui do banco de dados.
